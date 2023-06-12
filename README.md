@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ichinnorov Tuguldur</h1>
 <h3 align="center">A passionate full-stack software developer</h3>
-<p>🌟 Innovative Software Engineer | Problem Solver | Effective Communicator 🌟
+<p>🌟 Innovative Software Engineer | Problem Solver | Effective Communicator 🌟<br/>
 
-Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 2 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.
+Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 2 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.<br/>
 
-🚀 Key Skills:
-✅ Full-stack software development (React, HTML, CSS, RESTful APIs, Java, Spring Boot)
-✅ Version control and collaboration (Git, Github, JIRA, Slack)
-✅ Problem Solving | Effective Communication
-✅ Technical & Non-Technical Stakeholder Engagement | Delivering Clear & Concise Ideas
+🚀 Key Skills:<br/>
+✅ Full-stack software development (React, HTML, CSS, RESTful APIs, Java, Spring Boot) <br/>
+✅ Version control and collaboration (Git, Github, JIRA, Slack)<br/>
+✅ Problem Solving | Effective Communication<br/>
+✅ Technical & Non-Technical Stakeholder Engagement | Delivering Clear & Concise Ideas<br/>
 
 
-If you're looking for an innovative software engineer who brings together technical expertise, problem-solving skills, and effective communication, I would love to connect with you. Let's collaborate on groundbreaking projects that redefine the possibilities of technology!
+If you're looking for an innovative software engineer who brings together technical expertise, problem-solving skills, and effective communication, I would love to connect with you. Let's collaborate on groundbreaking projects that redefine the possibilities of technology!<br/>
 
 📩 Feel free to reach out to me at ichinnorov.tuguldur@cwu.edu for networking, collaborations, or exciting opportunities.</p>
 
