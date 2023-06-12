@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ichinnorov Tuguldur</h1>
 <h3 align="center">A passionate full-stack software developer</h3>
-<h4>🌟 Innovative Software Engineer | Problem Solver | Effective Communicator 🌟
+<p>🌟 Innovative Software Engineer | Problem Solver | Effective Communicator 🌟
 
-Welcome to my LinkedIn profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 2 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.
+Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 2 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.
 
 🚀 Key Skills:
 ✅ Full-stack software development (React, HTML, CSS, RESTful APIs, Java, Spring Boot)
@@ -10,17 +10,10 @@ Welcome to my LinkedIn profile! I'm Ichinnorov, a highly motivated Computer Scie
 ✅ Problem Solving | Effective Communication
 ✅ Technical & Non-Technical Stakeholder Engagement | Delivering Clear & Concise Ideas
 
-💡 About Me:
-I am fueled by my passion for problem-solving and thrive in bridging the gap between technical and non-technical stakeholders. Through my effective communication skills, I successfully convey complex ideas in a clear and concise manner, facilitating collaboration and driving projects forward.
-
-💪 Proven Expertise:
-✅ Creating Tailored Software Solutions | Solving Complex Business Problems
-✅ Collaborating with Dynamic Teams | Contributing Innovative Ideas
-✅ Pushing the Boundaries of Technology
 
 If you're looking for an innovative software engineer who brings together technical expertise, problem-solving skills, and effective communication, I would love to connect with you. Let's collaborate on groundbreaking projects that redefine the possibilities of technology!
 
-📩 Feel free to reach out to me at ichinnorov.tuguldur@cwu.edu for networking, collaborations, or exciting opportunities.</h4>
+📩 Feel free to reach out to me at ichinnorov.tuguldur@cwu.edu for networking, collaborations, or exciting opportunities.</p>
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing](https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing)
 
