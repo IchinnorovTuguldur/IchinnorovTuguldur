@@ -15,7 +15,7 @@ If you're looking for an innovative software engineer who brings together techni
 
 📩 Feel free to reach out to me at ichinnorov.tuguldur@cwu.edu for networking, collaborations, or exciting opportunities.</p>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing](https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing)
+📄 Know about my experiences [https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing](https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
