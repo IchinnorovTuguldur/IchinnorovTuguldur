@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack software developer</h3>
 <p>🌟 Innovative Software Engineer | Problem Solver | Effective Communicator 🌟<br/>
 
-Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 2 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.<br/>
+Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 3 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.<br/>
 
 🚀 Key Skills:<br/>
 ✅ Full-stack software development (React,TypeScript, HTML, CSS, RESTful APIs, Java, Spring Boot) <br/>
