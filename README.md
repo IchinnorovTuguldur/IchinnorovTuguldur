@@ -13,7 +13,7 @@ Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Scienc
 
 If you're looking for an innovative software engineer who brings together technical expertise, problem-solving skills, and effective communication, I would love to connect with you. Let's collaborate on groundbreaking projects that redefine the possibilities of technology!<br/>
 
-📩 Feel free to reach out to me at ichinnorov.tuguldur@cwu.edu for networking, collaborations, or exciting opportunities.</p>
+📩 Feel free to reach out to me at ichinnorov.tuguldur99@gmail.com for networking, collaborations, or exciting opportunities.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
