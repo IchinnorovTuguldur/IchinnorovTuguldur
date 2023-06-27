@@ -16,7 +16,7 @@ If you're looking for an innovative software engineer who brings together techni
 📩 Feel free to reach out to me at ichinnorov.tuguldur99@gmail.com for networking, collaborations, or exciting opportunities.</p>
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<text> align="left"><b>Connect with me:</b></text>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ichinnorov-tuguldur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ichinnorov-tuguldur/" height="30" width="40" /></a>
 </p>
 
