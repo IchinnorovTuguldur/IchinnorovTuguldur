@@ -5,7 +5,7 @@
 Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Science graduate from Central Washington University with a bachelor's degree. With a strong foundation in software engineering and 2 years of professional experience, I excel in developing tailored software solutions to tackle complex business challenges.<br/>
 
 🚀 Key Skills:<br/>
-✅ Full-stack software development (React, HTML, CSS, RESTful APIs, Java, Spring Boot) <br/>
+✅ Full-stack software development (React,TypeScript, HTML, CSS, RESTful APIs, Java, Spring Boot) <br/>
 ✅ Version control and collaboration (Git, Github, JIRA, Slack)<br/>
 ✅ Problem Solving | Effective Communication<br/>
 ✅ Technical & Non-Technical Stakeholder Engagement | Delivering Clear & Concise Ideas<br/>
@@ -14,8 +14,6 @@ Welcome to my Github profile! I'm Ichinnorov, a highly motivated Computer Scienc
 If you're looking for an innovative software engineer who brings together technical expertise, problem-solving skills, and effective communication, I would love to connect with you. Let's collaborate on groundbreaking projects that redefine the possibilities of technology!<br/>
 
 📩 Feel free to reach out to me at ichinnorov.tuguldur@cwu.edu for networking, collaborations, or exciting opportunities.</p>
-
-📄 Resume: [https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing](https://docs.google.com/document/d/16l_iNmlLenWQOuw_tSiZxwbEyEBY9ywRNk99tzhJFd8/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
